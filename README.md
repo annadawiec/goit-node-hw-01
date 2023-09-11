@@ -11,8 +11,21 @@ get: https://monosnap.com/file/ZIgPbx5IIk2xNs4ITbVERO2rgNa2p1
 
 remove: https://monosnap.com/file/zfipMfx4m7UD0ESv1MXB0TAkp91Wmz
 
+
+list:
 <img width="759" alt="list" src="https://github.com/annadawiec/goit-node-hw-01/assets/119159114/3c5e651d-7b22-4e64-8a34-069a921886a2">
 
+
+add:
+<img width="826" alt="add" src="https://github.com/annadawiec/goit-node-hw-01/assets/119159114/4940d3da-1bf0-4478-993a-5325675c3f59">
+
+
+get:
+<img width="736" alt="get" src="https://github.com/annadawiec/goit-node-hw-01/assets/119159114/3c27b563-474a-4ea2-a68a-4304fb275c4a">
+
+
+remove:
+<img width="659" alt="remove" src="https://github.com/annadawiec/goit-node-hw-01/assets/119159114/b1a043a9-ae63-426f-87ec-3784597bd705">
 
 
 
